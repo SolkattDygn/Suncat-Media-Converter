@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Suncat Media Converter
+Comment=Convert audio from video
+Exec=/usr/bin/suncat-media-converter
+Icon=suncat-media-converter-64x64
+Terminal=false
+Type=Application
+Categories=AudioVideo;Utility;
+

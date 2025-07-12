@@ -1,0 +1,9 @@
+Package: suncat-media-converter
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, ffmpeg
+Maintainer: Solkattdygn <https://github.com/SolkattDygn/>
+Description: Suncat Audio Converter A simple GTK-based tool to convert AAC to PCM audio in video files.
+

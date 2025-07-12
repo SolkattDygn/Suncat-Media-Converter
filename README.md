@@ -14,7 +14,9 @@ It uses ffmpeg to do this but without the hassle of figuring out what to put in 
 
 ## Install Guide:
 ### Option 1 (.deb): 
-Download the .deb file and install it from terminal with
+Download the latest .deb file [here](https://github.com/SolkattDygn/Suncat-Media-Converter/raw/main/dist/)
+
+and install it from terminal with
 
 `sudo dpkg -i suncat-media-converter_<version>.deb`
 

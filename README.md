@@ -8,9 +8,11 @@ It uses ffmpeg to do this but without the hassle of figuring out what to put in 
 
 ## Requirements:
 - A Debian-based Linux system (e.g., Linux Mint, Ubuntu)
-- Python 3 installed (already included on most systems)
-- ffmpeg installed
+- Python 3
+- python3-gi
+- ffmpeg
 - Basic knowledge of using the terminal
+###### Note: python3, python3-gi, and ffmpeg are automatically installed when installing from the .deb.
 
 ## Install Guide:
 ### Option 1 (.deb): 
